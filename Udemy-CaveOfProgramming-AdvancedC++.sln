@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Reading Text", "Reading Tex
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Parsing Text in Files", "Parsing Text in Files\Parsing Text in Files.vcxproj", "{3B553E9E-6646-4023-B9EB-8768386DC456}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Binary File", "Binary File\Binary File.vcxproj", "{938D9B32-1EEE-4B75-AAA0-5EF858974F5F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{3B553E9E-6646-4023-B9EB-8768386DC456}.Release|x64.Build.0 = Release|x64
 		{3B553E9E-6646-4023-B9EB-8768386DC456}.Release|x86.ActiveCfg = Release|Win32
 		{3B553E9E-6646-4023-B9EB-8768386DC456}.Release|x86.Build.0 = Release|Win32
+		{938D9B32-1EEE-4B75-AAA0-5EF858974F5F}.Debug|x64.ActiveCfg = Debug|x64
+		{938D9B32-1EEE-4B75-AAA0-5EF858974F5F}.Debug|x64.Build.0 = Debug|x64
+		{938D9B32-1EEE-4B75-AAA0-5EF858974F5F}.Debug|x86.ActiveCfg = Debug|Win32
+		{938D9B32-1EEE-4B75-AAA0-5EF858974F5F}.Debug|x86.Build.0 = Debug|Win32
+		{938D9B32-1EEE-4B75-AAA0-5EF858974F5F}.Release|x64.ActiveCfg = Release|x64
+		{938D9B32-1EEE-4B75-AAA0-5EF858974F5F}.Release|x64.Build.0 = Release|x64
+		{938D9B32-1EEE-4B75-AAA0-5EF858974F5F}.Release|x86.ActiveCfg = Release|Win32
+		{938D9B32-1EEE-4B75-AAA0-5EF858974F5F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
